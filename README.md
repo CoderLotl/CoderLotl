@@ -34,6 +34,7 @@ IDEs I use:
 ---
 
 Thanks for visiting!
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${CoderLotl}.${CoderLotl})
 
 <!--
