@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{CoderLotl}/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${CoderLotl}.${CoderLotl})
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
