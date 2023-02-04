@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You may know my as CoderLotl. I'm an enthusiastic student going through their very first years in the world of coding.
+You may know me as CoderLotl. I'm an enthusiastic student going through their very first years in the world of coding.
 My Time Zone is -3:00 GMT.
 
 ---
