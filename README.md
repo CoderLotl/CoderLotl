@@ -3,13 +3,15 @@
 You may know me as CoderLotl. I'm an enthusiastic student going through their very first years in the world of coding.
 My Time Zone is -3:00 GMT.
 
+You can poke me at Discord; my tag is: CoderLotl#3050
+
 ---
 
-Languages I speak:
+The languages I speak are:
 
-:es:
+Spanish :es:
 
-:uk:
+English :uk:
 
 ---
 
